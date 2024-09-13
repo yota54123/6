@@ -1,0 +1,29 @@
+$info: hsl(47, 88%, 63%);
+$secondary: hsl(0, 0%, 42%);
+
+$black: hsl(0, 0%, 7%);
+
+$box-shadow: 10px 10px rgb(0, 0, 0);
+
+.custom{}
+// ## Colors
+
+// - Yellow: hsl(47, 88%, 63%)
+
+// - White: hsl(0, 0%, 100%)
+
+// - Gray 500: hsl(0, 0%, 42%)
+// - Gray 950: hsl(0, 0%, 7%)
+
+// ## Typography
+
+// ### Body Copy
+
+// - Font size (paragraph): 16px
+
+// ### Font
+
+// - Family: [Figtree](https://fonts.google.com/specimen/Figtree)
+// - Weights: 500, 800
+
+@import 'node_modules/bootstrap/scss/bootstrap';
